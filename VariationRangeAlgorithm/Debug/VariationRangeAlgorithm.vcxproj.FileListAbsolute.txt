@@ -1,0 +1,3 @@
+C:\Users\KHUSRAV\source\repos\VariationRangeAlgorithm\VariationRangeAlgorithm\Debug\VariationRangeAlgorithm.vcxprojAssemblyReference.cache
+C:\Users\KHUSRAV\source\repos\VariationRangeAlgorithm\VariationRangeAlgorithm\Debug\VariationRangeAlgorithm.MyForm.resources
+C:\Users\KHUSRAV\source\repos\VariationRangeAlgorithm\VariationRangeAlgorithm\Debug\VariationRangeAlgorithm.vcxproj.GenerateResource.cache
